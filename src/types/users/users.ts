@@ -1,3 +1,7 @@
+/**
+ * Здесь описываются типы для списка пользователя, и его стейта
+ */
+
 export interface UserState {
 	users: any[]
 	loading: boolean
